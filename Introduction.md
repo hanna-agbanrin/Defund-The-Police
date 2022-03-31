@@ -9,6 +9,7 @@ Calls for defunding the police have been growing the last two years and jumped o
 
 Thus, abolitionist movements on all sides, whether in relation to prisons or the police, have until recently been a minority and marginalized. They were mainly to be found in the discussions of academics or radical activists, away from mass public opinion which was generally unaware of their existence. Although the movement gained prominence in the 1960s and 1990s, this was not commensurate with the scale of the movement after May 2020 and the death of George Floyd. Signs with slogans such as ‘Defund the police’, ‘Invest in black community’, ‘Fund services, not police’ multiplied as the demonstrations went on. 
 From internet outrage to street protests, social networks have played a crucial role in the spread and organization of these social movements. The video of George Floyd's arrest was the first to be posted on Facebook. The hashtags that flourished on Twitter also corresponded to the slogans brandished by the demonstrators. Between May, 27 and August, 31, in the U.S., more than 12,500 tweets containing #DefundThePolice have been published meanwhile there were none on May, 25 and 26. 
+
 **How did #DefundThePolice manage to mainstream its frames on the issue of police brutality?**
 
 
