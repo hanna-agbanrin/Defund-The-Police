@@ -2,8 +2,11 @@
 In order to conduct this analysis on the mainstreaming of police abolition in 2020, we have mainly relied on collecting and analyzing tweets. We looked at trending hashtags that were used to push for specific framing of police violence within the Black Lives Matter movement. 
 
 **Black Lives Matter** :  A decentralized political and social movement that seeks to highlight racism, discrimination, and inequality experienced by black people. 
+
 **Defund The Police**: Advocates reallocating or redirecting funding away from the police department to non-policing forms of public safety and community support, such as social services, youth services, housing, education, healthcare and other community resource
+
 **Abolish The Police** : Avocates replacing policing with other systems of public safety. Police abolitionists believe that policing, as a system, is inherently flawed and cannot be reformed as it is deeply rooted in a history of white supremacy and settler colonialism
+
 **Reform The Police**: Without questioning the existence of the police, the movement advocates the reorganisation of hierarchical structures, staffing, and the training of police in alternative approaches to law enforcement.
 
 ## Sources
