@@ -29,7 +29,58 @@ Some researchers are wary of such a heavy dependence on opinion leaders: Wilkins
 
 In order to conduct this analysis on the mainstreaming of police abolition in 2020, we have mainly relied on collecting and analyzing tweets. We have focused on the summer of 2020, following George Floyd’s murder and collected tweets with the Twitter Explorer associated with the following queries: #BlackLivesMatter, #DefundThePolice, #AbolishThePolice, #ReformThePolice, #8toAbolition and #8Can’tWait, which adds up to xtweets. We have then conducted both quantitative and qualitative analysis on this corpus of tweets, and some degree of network analysis. We were predominantly interested in studying the frames brought by these tweets, their engagement rate, and how these hashtags have performed comparatively.  We were also particularly interested in seeing how accounts performed based on their follower base and how communities' hashtags and accounts interacted with one another, and whether these interactions have changed over time. 
 
+### Sources
+We based our analysis on tweets published between May and August in the US, in English collected through the Twitter API. We used multiple queries to constitute a corpus: 
+#DefundThePolice
+#BlackLivesMatter
+#ReformThePolice
+#AbolishThePolice
+We notably used the Twitter Explorer in order to collect and visualize our data. 
+
+### Quantitative analysis
+We analyzed Twitter metadata, notably retweet counts, the volume of tweets, co-occurrences of hashtags  and we designed networks to account for interactions between accounts. We also leveraged topic modelling and tf-idf in order to highlight key terms. 
+
+### Qualitative analysis 
+We performed critical discourse analysis on the tweets that have received the most engagement from all of our corpus, in order to understand which frames worked best. 
+
+# #DefundThePolice within the Black Lives Matter Ecosystem
+
+### Main themes in our Twitter Corpus 
+
+
+We instantiate the corpus object
+```
+lang = 'en_core_web_sm'
+corpus = textacy.Corpus(lang)
+for item in ['parser']:
+  if item in corpus.spacy_lang.pipe_names:
+      corpus.spacy_lang.remove_pipe(item)
+```      
+We add the documents 
+```
+corpus.add_texts(documents)
+docs_terms = (textacy.extract.terms(doc,ngs=partial(textacy.extract.ngrams, n=1, include_pos={"NOUN", "ADJ"}),ents=partial(textacy.extract.entities, include_types={ "ORG", "GPE", "LOC"}))for doc in corpus)
+tokenized_docs = (textacy.extract.terms_to_strings(doc_terms, by="lemma") for doc_terms in docs_terms)
+doc_term_matrix, vocab = textacy.representations.build_doc_term_matrix(tokenized_docs,tf_type="linear", idf_type="smooth")
+id_to_term = {id_: term for term, id_ in vocab.items()}
+```
+We carry out topic modelling with every single tweet 
+```
+import textacy.tm
+model = textacy.tm.TopicModel("nmf", n_topics=15)
+model.fit(doc_term_matrix)
+doc_topic_matrix = model.transform(doc_term_matrix)
+for topic_idx, terms in model.top_topic_terms(id_to_term, top_n=10):
+    print(f"topic {topic_idx}: {'   '.join(terms)}")
+```
+We visualize the topic modelling matrix: 
+```
+ _ = model.termite_plot(doc_term_matrix, id_to_term, n_terms=50, highlight_topics=[0,4,6,2])
+ ```
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+```
 
 ```markdown
 Syntax highlighted code block
