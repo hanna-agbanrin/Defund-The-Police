@@ -28,6 +28,8 @@ Mainstreaming a movement, a cause, and frames however entails exiting one’s ni
 Some researchers are wary of such a heavy dependence on opinion leaders: Wilkins, Livingstone & Levine notably argue that these opinion leaders tend to come from privileged groups. These users are able to leverage their resources, power, and status to spread the message and frames to a broad audience. However, this poses the risk of “reproducing the subordination of disadvantaged groups within the movement” (p.788). Wilking & al are particularly wary of how this phenomenon may result in influencing, altering, and undermining radical frames brought by underprivileged activists, in a way that could contribute to “rarefying the issue of police brutality, downplaying its prevalence and importance in society” (p.794)
 
 # Methodology 
+We are interested in understanding how #DefundThePolice managed to mainstream its frames on the issue of police brutality? In order to do so, we want to analyse  #DefundThePolice's place within the Black Lives Matter ecosystem, and understand how it contributed to shape frames around the issue of police brutality. We also look at the temporality of these frames, in conjunction with engagement on social media to see which frames have garnered the most engagement. Finally we analyse the interplay between key actors in order to understand who precisely contributed to shape the narrative and mainstream it. 
+
 In order to conduct this analysis on the mainstreaming of police abolition in 2020, we have mainly relied on collecting and analyzing tweets. We looked at trending hashtags that were used to push for specific framing of police violence within the Black Lives Matter movement. 
 
 **Black Lives Matter** :  A decentralized political and social movement that seeks to highlight racism, discrimination, and inequality experienced by black people. 
@@ -188,6 +190,31 @@ This preliminary analysis of the hashtags seems to point to #AbolishThePolice an
 
 
 # Main themes and Frames in our Twitter Corpus 
+
+
+# Network analysis 
+
+We used the Twitter Explorer to modelize interactions between users, by focusing on quotes notably. We represent the evolution of the network below: 
+
+![screenshot (29)](https://user-images.githubusercontent.com/102752920/161747921-19fd244f-222c-46a3-b418-657cc2ca001f.png)
+![screenshot (28)](https://user-images.githubusercontent.com/102752920/161747923-a4da171e-7948-4b98-976d-93b7e5375db6.png)
+![screenshot (27)](https://user-images.githubusercontent.com/102752920/161747925-938298e3-bd60-4bd0-85c3-ade8c5ef9d09.png)
+![screenshot (26)](https://user-images.githubusercontent.com/102752920/161747927-1b97d88c-af17-4342-b32b-c8ca5c32d626.png)
+![screenshot (25)](https://user-images.githubusercontent.com/102752920/161747929-89fd1883-0bb4-4534-898a-4b1f7682b141.png)
+![screenshot (24)](https://user-images.githubusercontent.com/102752920/161747930-9ec5f016-460b-4575-af2c-62eba734312e.png)
+![screenshot (23)](https://user-images.githubusercontent.com/102752920/161747933-6bb469a0-9335-4b0f-9b58-afb1201ccf83.png)
+
+As we can see on this network analysis, users were initially very decentralized, as time passed, we can see that a core of users with a high degree of connectivity started to shape up. A nebulous of decentralized users remain at the periphery. 
+The network throughout the period studied looks like this, on the first figure, it highlights accounts that were counted the most, while on the second it highlights accounts with the most followers: 
+
+![screenshot (56)](https://user-images.githubusercontent.com/102752920/161748592-8d50e28a-78b0-4541-952d-460850cda10c.png)
+![screenshot (55)](https://user-images.githubusercontent.com/102752920/161748601-d11292c5-bf6e-438f-baf1-14981412496e.png)
+
+The network overall does not seem to be shaped around big accounts, but rather around users with the highest degree of connectivity, which are not necessarily those with the most followers, but rather those that have posted videos that elicit a more emotional reaction, as explained above.
+
+We have generated the same network with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
+
+
 
 
 We instantiate the corpus object
