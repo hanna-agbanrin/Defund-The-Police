@@ -83,7 +83,7 @@ Similarly in terms of engagement, it appears that #DefundThePolice was the secon
 ## Black Lives Matter after George Floyd: Qualitative Features
 
 We carried out a topic modelling analysis with the entire corpus and we found the following: 
-'''
+```
 topic 0: black   woman   community   mourn   brown   fight   business   sister   folk   brother
 topic 1: police   brutality   officer   violence   protester   department   force   reform   city   murder
 topic 2: people   chain   color   t   power   lot   innocent   country   tired   skin
@@ -99,7 +99,7 @@ topic 11: justice   peace   equality   racial   demand   social   fight   injust
 topic 12: racism   systemic   active   learning   unlearning   continuous   allyship   oppose   join   listening
 topic 13: man   woman   officer   year   video   young   old   unarmed   innocent   car
 topic 14: new york   manhattan   happy   rally   street   power   birthday   park   trump tower   repost
-'''
+```
 ![image](https://user-images.githubusercontent.com/102752920/161734957-4921b50d-5b45-47e8-b4a1-fba67f577afc.png)
 
 We have attributed labels to these topics in particular the following: 
@@ -113,7 +113,7 @@ We have attributed labels to these topics in particular the following:
 
 We then performed a topic modelling analysis of #BlackLivesMatter
 
-'''
+```
 topic 0: black   woman   community   mourn   fight   brown   business   sister   brother   folk
 topic 1: protest   peaceful   protester   city   downtown   protestor   tonight   street   safe   riot
 topic 2: people   chain   color   t   power   lot   innocent   country   tired   tag
@@ -129,7 +129,7 @@ topic 11: cop   racist   good   bad   arrest   fuck   protester   murder   shit 
 topic 12: racism   systemic   active   learning   unlearning   continuous   allyship   oppose   join   listening
 topic 13: new york   manhattan   rally   happy   street   power   trump tower   birthday   new   repost
 topic 14: man   woman   young   year   officer   video   old   unarmed   innocent   child
-'''
+```
 These topics are very similar to that of the entire corpus, which can be explained by Black Lives Matter having significantly more tweets than the other hashtags that we have studied.
 - Community, and the role of Black women within this community
 - Protests and clashes with the police
@@ -139,7 +139,7 @@ These topics are very similar to that of the entire corpus, which can be explain
 
 We then performed a topic modelling analysis of #DefundThePolice 
 
-'''
+```
 topic 0: police   defund   department   brutality   reform   violence   union   force   immunity   state
 topic 1: people   white   power   change   harming   t   real   problem   murder   american
 topic 2: cop   violent   thug   arrest   past   shit   racist   fuck   fucking   t
@@ -155,7 +155,7 @@ topic 11: law   enforcement   order   state   federal   public   racist   local 
 topic 12: man   white   year   old   woman   gun   car   unarmed   young   deputy
 topic 13: good   bad   apple   thing   idea   day   tree   way   country   t
 topic 14: video   new   body   camera   protester   cam   evidence   footage   watch   t
-'''
+```
 We attributed the following labels to the first topics highlighted: 
 - Police brutality and the need for change 
 - Race relations and systemic racism 
