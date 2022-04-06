@@ -189,7 +189,66 @@ As to #AbolishthePolice, the hashtag is mostly associated with geographic locati
 This preliminary analysis of the hashtags seems to point to #AbolishThePolice and #DefundThePolice as two structuring frames within the Black Lives Matter movement, with #DefundThePolice being used as a more mainstream and general critique of the police and Abolish the Police being tied to more local and radical social mobilizations. This speaks to the extent of the social mobilization of local organizations and local demonstrations in Portland, the echo that they encountered across the country and the ongoing impact that these protests had in shaping the narrative: these demonstrations lasted 100 days.
 
 
-# Main themes and Frames in our Twitter Corpus 
+# Dominant Frames 
+
+In the previous parts, we focused on the popular hashtags within the BLM ecosystem, compared them and analyzed the narratives they brought, which was part of our general“frame analysis” process. Frame analysis is a social science research method that focuses on how a topic is represented through the specific issues and sub-topics that people focus on, and how actors may exert an influence on this selection process. Framing mechanisms are a key mobilization process when it comes to social movements. Indeed, they “assign meaning to and interpret relevant events and conditions in ways that are intended to mobilize potential adherents and constituents, to garner bystander support, and to demobilize antagonists” (Snow & Benford, 1988). It is a conscious and unconscious process.  Collective action frames involve “negotiating shared meaning” (Gamson, 1992) which allow movements to ‘legitimize their actions, create a sense of collective identity and inspire support, characterize messages in ways that resonate with the public’ (Wenlin Liu, Summer Harlow, 2020). Social media is a strong diffusion mechanism for spreading those social movement frames and strategies, allowing both a relational and a mediated model of diffusion; platforms such as twitter facilitate frame alignment, which Snow and Benford define as the alignment of individual frames in congruence and complementariness. This frame alignment produces frame resonance, which in turn helps a group transition from one frame to another. 
+We chose to focus on the peaks of engagement for the popular #BLM and #Defundthepolice hashtags (volume of tweets) in order to identify the main frame alignments on Twitter during these time periods during which the movement was the most visible. What topics generated the most engagement? Was there any discrepancy between the frames of the most popular tweets, and the frames that were the most discussed? Did the movement transition from one dominant frame to another during or between peaks? For #defund the police, the time periods we identified were the first three weeks of our corpus (2020.05.28, 2020.06.06, 2020.06.15); #blacklives matter had several bigger peaks at the same time (same weeks, with a massive peak of engagement on 2020.06.02) and a smaller peak between 2020.08.24 and 2020.08.27.
+In order to simplify the analysis, we adopted the three kinds of frames conceptualized by Snow and Benford: first, diagnostic framing, which states the problem (generally in Manichean terms), identifies victims, assigns blame (“X killed Y”, “X is racist”). Secondly, prognostic framing, which offers solutions and how they could be implemented (“A should do B”). Finally, motivational framing is more of a call to arms that legitimizes the movement (principles) and spreads action-oriented leitmotivs related to what people should do if they agree with the diagnostic frame and the prognostic frame (for example, “vote A”, “contact B”…)
+First, using the open source, web-based application Voyant Tools made for text mining, we decided to identify the main topics of the top 20 tweets during the first week, for the BLM hashtag.
+
+![4keHyCTYQ3xNlDYZ1YQGwAeO32tm30nmOvzizrMAB7c_d4BGjfHLGWB_vI_Hlo53uOhGBKZ6yEtgMB74XYEQVpv3bsSDaHJA1woLQfJtbjIO3rAZoL3X4EilcVCPy7LOkCVj2pc-](https://user-images.githubusercontent.com/102752920/162073279-e761790a-986f-4759-86ee-03d9ebcd77d3.png)
+Then, we created a simplified network visualization of the most frequent word associations of the top 20 tweets of week 1 (BLM). As expected, they were related to diagnostic framing; explaining the circumstances of George Floyd’s death and the crux of the problem for the BLM movement: “racism”, “white privilege”, a call for “justice” and “ending violence”. (*Side note, the “batman” wildcard is related to a man that came to a protest dressed up as Batman and generated a lot of RTs, but we also noticed people using it both to say things along the lines of “we need batman” and as a derogatory way to call policemen “racist vigilantes”). 
+
+![qdE6_aq6T1_kOqvsp-T9zjQ4oYK59QCXpP5BQpWlEqlMn5pZRvHwAMp3QSmGSDRKLnZQwYKPyQ6HOwczqoVOn6iVW0kkMvQEDOn16RDdrYhwu6DEDUUEw1tzKwJgFo1tBuHWNSh4](https://user-images.githubusercontent.com/102752920/162073426-65658af1-b2cd-45c6-8afc-f1ab27d6fd5e.png)
+Meanwhile, the analysis of the top 20 most popular #defundthepolice hashtags during Week 1 produced more prognostic oriented results and had more precise targets when it came to diagnosing the situation and assigning blame (denouncing how education had been defunded but not the police, pointing out specific departments/city councils/mayors) and was also more directly linked to the protests (“protesters”, “tear gas”, “transit/traffic” issues, “medics”).
+![7tfb2z6765iLVz4kKQwPhTtxqGsM8auHcW4I3hgO-uXcr4bgIN6e8EL7rQy-6Ts5X7nkcqFqe-vtoD7RCjW4QSRUfaLeEPEA1r37ELd5hd2U20nCfOVaIIQcu7BBhn0xcqkSO2oN](https://user-images.githubusercontent.com/102752920/162073722-82a0e9c1-05a3-4329-ba0f-3f286416dfe7.png)
+
+Using TF-IDF we drew out the most frequent words of the most popular tweets during each peak, and the most frequent words in general during in peak, and ran a comparative analysis. 
+The data:
+#Blacklivesmatter data: most frequently used words over the 4 main peaks (most popular tweets)
+
+![Screen Shot 2022-04-06 at 23 26 38](https://user-images.githubusercontent.com/102752920/162074125-c1046d90-c23c-49ba-bd54-00bbcd3c926b.png)
+
+#Defund the Police, Top 20 tweets Week 1
+
+![Screen Shot 2022-04-06 at 23 27 17](https://user-images.githubusercontent.com/102752920/162074244-1410fba9-e121-4b03-8b82-d07f95e01f79.png)
+
+#Defund the Police data: most frequently used words over the 4 main peaks (most popular tweets)
+![Screen Shot 2022-04-06 at 23 27 55](https://user-images.githubusercontent.com/102752920/162074338-8279c97f-ad04-4587-a363-6420b20b915c.png)
+
+All Tweets: most frequently used words over the peaks
+![Screen Shot 2022-04-06 at 23 29 03](https://user-images.githubusercontent.com/102752920/162074571-ddcadeda-c939-42b5-b445-1a92a593eb9e.png)
+
+
+### Rough Generalization 
+
+Rough generalization:
+Main topics (popular tweets) 🡪 George Floyd, tear gas on protesters/medic shot, defunding the police = not so radical, confederate monument, Jacob Blake shot in front of his children
+Main topics (volume) 🡪 [W1] black/white&police (privilege, violence), justice. [W2] more immediate topics (today, protest, curfew), more urgent calls for justice (need/now/no time). [W3]: budget & defund are more frequently used as well as, “support”, community; less frequent use of “white”, the tweets are more oriented on the black community and the need for support & actual reforms. [W14]: more immediate reactions to JB (children, kenosha, wisconsin, but before that: confederate monument debate, money/rich white people ruling US
+
+### Week by week comparative analysis between the topics of popular tweets (PT) and the topics in terms of volume (VOL)
+
+Week 1: 
+VOL = Diagnostic-oriented 🡪 violence, racism, white privilege, Motivation: save lives, justice 
+PT = Prognostic 🡪 opportunity for change, police weapons, switch systems, defund
+Week 2: 
+VOL and PT = both Diagnostic-oriented -> evidence of violence on protesters, general indignation
+Week 3:
+Both VOL. and PT frames are much more prognostic and motivation-oriented: identification of more specific vulnerable group within the black community (black women, disabled black people), identifications of vectors of change (the educational field, the healthcare system), emphasis on the need for support from external actors and on the need to keep the momentum of the movement
+Week 14:
+VOL = before Jacob Blake’s death = Prognostic-oriented, motivation-oriented 🡪 broader topics of discussion and more precise suggestions of solutions (healthcare, elections, voters, “Trump’s America”, voting for Biden, black history, education).
+After Jacob Blake’s death (VOL & PT) 🡪 mostly diagnostic-oriented frames about Jacob, his children, the injustice of the situation and the need to hold the policemen accountable 
+
+## Main conclusion
+
+Following this analysis, we were able to draw some conclusions. First of all, the peaks of engagement of the BLM movement were not necessarily driven by the same motives and did not produce the same kind of frames every time they occurred: we can clearly notice an evolution of the topics that are the most discussed in parallel to the progressive formation and development of the movement.
+Snow and Benford conceptualized four aspects of frame alignment (bridging, amplification, extension and transformation), that could all be found in our dataset; 
+Bridging connects uninvolved individuals with the movement through common interests and goals. In this case, many of the diagnostic-oriented tweets were meant to rally Black people and allies.
+The amplification model is the way a movement expands its core ideas to have a wider, more universal appeal. During the peaks of the BLM and DefundthePolice hashtags, the arguments are extended to encompass the broader notions of social justice, women’s rights, economic inequality, inequal access to healthcare, disabled people.
+The extension model occurs when organizations mutually promote each other. This is the case here with the women’s right movements, disabled people’s movements, and the Biden supporters.
+Transformation is the revision of the movement’s original goals; when some of its goals succeed (in this case, at first, bringing George Floyd’s killer to justice), there is a risk that it might lose relevance. This concern is very noticeable during the third week, when tweets focus on the need to “keep the momentum”: the movement expands its diagnostic and prognostic frames.
+We also noticed a discrepancy between the topics of the most popular tweets and the most popular topics in terms of volume. The general direction went from diagnostic to motivation and prognostic, and back to diagnostic during shocking events, but prognostic-oriented frames kept increasing overall. Interestingly enough, when tweets were more problem-oriented in terms of volume, the popular tweets were the ones that offered solutions. Meanwhile, when most people were talking about possible solutions, the most popular tweets were the most emotional, diagnostic-oriented ones.
+This analysis allowed us to get a more precise view of the movement’s dominant frames on Twitter, but it was still limited in scope. We studied the topics that generated the most engagement, but we did not determine the exact type of engagement that occurred each time - which could have been done through a more detailed sentiment analysis, using different tools. Using likes and retweets allowed us to quantify a certain amount of “positive” engagement related to some topics, but the dataset did not include the network of comments and “quote retweets” which are an important part of the Twitter ecosystem. Moreover, the coverage of the popular tweets in news media could also have had an important influence on the framing of the movement on this platform. 
 
 
 # Network analysis 
