@@ -25,9 +25,11 @@ The pedagogical aspect of Black Twitter relies on a participatory mode of online
 ## Mainstreaming an online social movement 
 
 Mainstreaming a movement, a cause, and frames however entails exiting one’s niche by scaling sufficiently to capture a broader audience. Tufecki argues that in order to scale up movements need to grab users’ attention, since “attention is the means through which a social movement can introduce and fight for its preferred framing, convince broader publics of its cause, recruit new members, attempt to neutralize opposition framing, access solidarity, and mobilize its own adherents” (p.849). This notion of attention is especially important for social movements in a context of “abundant or even redundant online content”, in which “attention is the most valuable asset” (Xu, Sang, Blasiola, Park 2014 p.1279). Grabbing attention usually depends on what Tufecki calls opinion-leaders, “politically motivated noninstitutional actors who use affordances of social media to engage in presentation of their political and personal selves to garner public attention to their cause, usually through a combination of testimony, advocacy, and citizen journalism.” (p.850) Xu, Sang, Blasiola and Park define these users with high connectivity and issue involvement as users that tend to be “better at influencing information flow on Twitter” (Xu, Sang, Blasiola, Park 2014 p.1279). Accordingly, these users can influence the information flow both by “contributing information” and then by inciting others to “disseminate information”.
+
 Some researchers are wary of such a heavy dependence on opinion leaders: Wilkins, Livingstone & Levine notably argue that these opinion leaders tend to come from privileged groups. These users are able to leverage their resources, power, and status to spread the message and frames to a broad audience. However, this poses the risk of “reproducing the subordination of disadvantaged groups within the movement” (p.788). Wilking & al are particularly wary of how this phenomenon may result in influencing, altering, and undermining radical frames brought by underprivileged activists, in a way that could contribute to “rarefying the issue of police brutality, downplaying its prevalence and importance in society” (p.794)
 
 # Methodology 
+
 We are interested in understanding how #DefundThePolice managed to mainstream its frames on the issue of police brutality? In order to do so, we want to analyse  #DefundThePolice's place within the Black Lives Matter ecosystem, and understand how it contributed to shape frames around the issue of police brutality. We also look at the temporality of these frames, in conjunction with engagement on social media to see which frames have garnered the most engagement. Finally we analyse the interplay between key actors in order to understand who precisely contributed to shape the narrative and mainstream it. 
 
 In order to conduct this analysis on the mainstreaming of police abolition in 2020, we have mainly relied on collecting and analyzing tweets. We looked at trending hashtags that were used to push for specific framing of police violence within the Black Lives Matter movement. 
@@ -41,6 +43,7 @@ In order to conduct this analysis on the mainstreaming of police abolition in 20
 **Reform The Police**: Without questioning the existence of the police, the movement advocates the reorganisation of hierarchical structures, staffing, and the training of police in alternative approaches to law enforcement.
 
 ## Sources
+
 We have focused on the summer of 2020, following George Floyd’s murder (May 25th to August 31st) and collected tweets with the Twitter Explorer and the Twitter API associated with the following queries to constitute a corpus of tweets: 
 #DefundThePolice
 #BlackLivesMatter
@@ -175,6 +178,7 @@ We observe a great deal of convergence between #DefundThePolice and the main cor
 
 This is the hashtag network that we generated thanks to the Twitter Explorer, which shows hastags most associated with #BLM. 
 ![image](https://user-images.githubusercontent.com/102752920/161737084-dc18d710-3e0a-4405-92f8-af1a1b54ac8c.png)
+
 We can see that within our query, #DefundThePolice and #AbolishThePolice are among tweets most frequently associated with #BlackLivesMatter.
 ![image](https://user-images.githubusercontent.com/102752920/161737117-17e36aca-920d-4d9f-82ed-a90f560b552c.png)
 
