@@ -215,11 +215,26 @@ The network overall does not seem to be structured around big accounts, but rath
 
 ![screenshot (51)](https://user-images.githubusercontent.com/102752920/161981362-8441a2c7-6bbf-4408-b5d7-73e5ed8029be.png)
 
-This network of hashtags associated with #DefundThePolice reflects the diversity of communities that interact within the #DefundThePolice ecosystem. These communities all contribute to the conversation, which enables the hashtag to broaden the conversation to more local issues such as protests in Portland (#PortlandProtest), but also tackle more social issues such transphobia (#BlackTransLivesMatter), systemic violence perpetrated by immigration services (#AbolishICE). In turn this high degree of connectivity between users enables them to be exposed to this broader conversation. This truly exemplifies the notion of informal learning brought in the introduction.
+This network of hashtags associated with #DefundThePolice reflects the diversity of communities that interact within the #DefundThePolice ecosystem. These communities all contribute to the conversation, which enables the hashtag to broaden the conversation to more local issues such as protests in Portland (#PortlandProtest), but also tackle more social issues such transphobia (#BlackTransLivesMatter), systemic violence perpetrated by immigration services (#AbolishICE). In turn this high degree of connectivity between users enables them to be exposed to this broader conversation. This truly exemplifies the notion of informal learning brought in the literature review. Finally, the contribution of users with a lot of followers, such as celebrities, news media enables to bring into the conversation a broader audience.
 
 We have generated networks with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
+In contract, #ReformThePolice displays a more scattered network with little connection between users which is seemingly shaped around these bigger accounts. 
+![screenshot (52)](https://user-images.githubusercontent.com/102752920/161982679-6ade361c-1245-441c-af1a-eed2859e05d5.png)
+![screenshot (54)](https://user-images.githubusercontent.com/102752920/161982730-ff5f550f-2e9e-49e9-84ec-b493048869e8.png)
 
+The hyper dominance of bigger accounts with #ReformThePolice is further demonstrated by the statistics that we have collected, that show that engagement was very much concentrated within the few bigger accounts that have used the hashtag: 
 
+![NvaD0-proportion-of-engagement-metrics-per-popularity-nbsp-](https://user-images.githubusercontent.com/102752920/161983349-db8b4899-a11e-46cb-a065-9f711034ca5e.png)
+
+This results in less hashtags associated with #ReformThePolice, less differentiation among communities and local involvement limited to NYC as it seems:
+![screenshot (58)](https://user-images.githubusercontent.com/102752920/161983724-a9fb3a3f-2bfd-4a39-9fae-426db8e39dea.png)
+
+As to #AbolishThePolice, we can see the network resembles that of #DefundThePolice, albeit with a less dense core, and fewer users.
+![screenshot (56)](https://user-images.githubusercontent.com/102752920/161983777-484369b2-3861-4cec-8e44-f5d732de300b.png)
+![screenshot (55)](https://user-images.githubusercontent.com/102752920/161983786-a14b576f-21ee-4358-80d4-5c65e1c67c95.png)
+
+We can also see a variety of topics which focuses on local demonstrations and real life event. A difference from #DefundThePolice might be that the hashtag did not really manage to create an overarching narrative. 
+![screenshot (57)](https://user-images.githubusercontent.com/102752920/161984104-4c0a09bf-a263-4356-b09a-b0e6d478acbc.png)
 
 
 We instantiate the corpus object
