@@ -207,12 +207,17 @@ We used the Twitter Explorer to modelize interactions between users, by focusing
 As we can see on this network analysis, users were initially very decentralized, as time passed, we can see that a core of users with a high degree of connectivity started to shape up. A nebulous of decentralized users remain at the periphery. 
 The network throughout the period studied looks like this, on the first figure, it highlights accounts that were counted the most, while on the second it highlights accounts with the most followers: 
 
-![screenshot (56)](https://user-images.githubusercontent.com/102752920/161748592-8d50e28a-78b0-4541-952d-460850cda10c.png)
-![screenshot (55)](https://user-images.githubusercontent.com/102752920/161748601-d11292c5-bf6e-438f-baf1-14981412496e.png)
+![screenshot (49)](https://user-images.githubusercontent.com/102752920/161980537-c12c02df-f61d-49e7-b745-eb9f524299ac.png)
+![screenshot (48)](https://user-images.githubusercontent.com/102752920/161980541-ec0f0273-4fcc-4fa2-8a55-01aa5345f226.png)
 
-The network overall does not seem to be shaped around big accounts, but rather around users with the highest degree of connectivity, which are not necessarily those with the most followers, but rather those that have posted videos that elicit a more emotional reaction, as explained above.
 
-We have generated the same network with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
+The network overall does not seem to be structured around big accounts, but rather around users with the highest degree of connectivity, which are not necessarily those with the most followers, but rather those that have posted videos that elicit a more emotional reaction, as explained above. Within this this dense core, we can see different Leiden communities, which shows a high degree of inter-community interactions. We see a significant proportion of decentralized users that interact with one another and even create small cores. 
+
+![screenshot (51)](https://user-images.githubusercontent.com/102752920/161981362-8441a2c7-6bbf-4408-b5d7-73e5ed8029be.png)
+
+This network of hashtags associated with #DefundThePolice reflects the diversity of communities that interact within the #DefundThePolice ecosystem. These communities all contribute to the conversation, which enables the hashtag to broaden the conversation to more local issues such as protests in Portland (#PortlandProtest), but also tackle more social issues such transphobia (#BlackTransLivesMatter), systemic violence perpetrated by immigration services (#AbolishICE). In turn this high degree of connectivity between users enables them to be exposed to this broader conversation. This truly exemplifies the notion of informal learning brought in the introduction.
+
+We have generated networks with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
 
 
 
