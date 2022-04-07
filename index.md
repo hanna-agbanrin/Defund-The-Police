@@ -9,8 +9,11 @@ Defund the police is a slogan that means reallocating or redirecting funding awa
 The idea of cutting police funding in favor of other services that could directly improve the lives of communities lean on several arguments. For example, abolitionists doubt the effectiveness of the police in ensuring public safety. They point to the high number of unsolved or unsolved cases of murder, rape and domestic violence. For example, in 2021, of the 15,000 murder cases recorded in the United States, one-third remained unsolved. Abolitionists also denounce a racist continuum in policing: the slave patrols, the enforcement of Jim Crow laws, and the repression of the civil rights movement, which would explain why police repression and the prison system primarily targeted minorities. Finally, abolitionists argue that the police are charged with the enforcement and supervision of too many public service missions for which officers are often unfit or ill-suited. For example, they consider it unrealistic for a police officer to be able to respond to problems of poor housing, mental illness or addiction that they must constantly confront in their current mission. They advocate instead for an unbundling of services so that many services that were previously provided by law enforcement would be provided by specialized response teams such as social workers, emergency medical technicians, conflict resolution specialists.
 
 Calls for defunding the police have been growing the last two years and jumped out at many activists and ordinary citizens. However, such ideas are not new and have their roots in long-standing concepts and observations in the United States. ‘Defund the police’ is only the moderate part of a movement to abolish the police. The latter is itself a branch of the abolitionist movement as a whole, which originally aimed to abolish slavery and which, by extension, refers to all movements that seek to abolish an institution or a law, including the police, but also prisons and courts. In his 1935 book Black Reconstruction in America, the black American historian W.E.B Du Bois speaks of 'abolition-democracy', which advocates the suppression of institutions anchored in racist and repressive practices, including prisons, convict leasing and white police forces. In the context of President Lyndon B. Johnson Johnson's 'war on crime', which prioritized fighting crime through repression and prisons, activist Angela Davis exhumed these concepts from oblivion and argued for the funding or abolition of police departments. In the late 1990s, prisons and prison populations increased dramatically, particularly in California. There was a resurgence of the abolitionist movement to stop states from building more prisons, again led by long-time activists such as Ruth Wilson Gilmore and Angela Davis, with the formation of groups such as the California Prison Moratorium Project, which Gilmore helped found.
+
 Thus, abolitionist movements on all sides, whether in relation to prisons or the police, have until recently been a minority and marginalized. They were mainly to be found in the discussions of academics or radical activists, away from mass public opinion which was generally unaware of their existence. Although the movement gained prominence in the 1960s and 1990s, this was not commensurate with the scale of the movement after May 2020 and the death of George Floyd. Signs with slogans such as ‘Defund the police’, ‘Invest in black community’, ‘Fund services, not police’ multiplied as the demonstrations went on. 
+
 From internet outrage to street protests, social networks have played a crucial role in the spread and organization of these social movements. The video of George Floyd's arrest was the first to be posted on Facebook. The hashtags that flourished on Twitter also corresponded to the slogans brandished by the demonstrators. Between May, 27 and August, 31, in the U.S., more than 12,500 tweets containing #DefundThePolice have been published meanwhile there were none on May, 25 and 26. 
+
 It is then necessary to question the process of diffusion of the hashtag that took place on Twitter during this period. In other words, by what mechanisms did a marginal movement become relatively mainstream on Twitter?
 
 # Literature Review
@@ -234,21 +237,21 @@ All Tweets: most frequently used words over the peaks
 ### Rough Generalization 
 
 Rough generalization:
-Main topics (popular tweets) 🡪 George Floyd, tear gas on protesters/medic shot, defunding the police = not so radical, confederate monument, Jacob Blake shot in front of his children
-Main topics (volume) 🡪 [W1] black/white&police (privilege, violence), justice. [W2] more immediate topics (today, protest, curfew), more urgent calls for justice (need/now/no time). [W3]: budget & defund are more frequently used as well as, “support”, community; less frequent use of “white”, the tweets are more oriented on the black community and the need for support & actual reforms. [W14]: more immediate reactions to JB (children, kenosha, wisconsin, but before that: confederate monument debate, money/rich white people ruling US
+Main topics (popular tweets): George Floyd, tear gas on protesters/medic shot, defunding the police = not so radical, confederate monument, Jacob Blake shot in front of his children
+Main topics (volume): [W1] black/white&police (privilege, violence), justice. [W2] more immediate topics (today, protest, curfew), more urgent calls for justice (need/now/no time). [W3]: budget & defund are more frequently used as well as, “support”, community; less frequent use of “white”, the tweets are more oriented on the black community and the need for support & actual reforms. [W14]: more immediate reactions to JB (children, kenosha, wisconsin, but before that: confederate monument debate, money/rich white people ruling US
 
 ### Week by week comparative analysis between the topics of popular tweets (PT) and the topics in terms of volume (VOL)
 
-Week 1: 
-VOL = Diagnostic-oriented 🡪 violence, racism, white privilege, Motivation: save lives, justice 
-PT = Prognostic 🡪 opportunity for change, police weapons, switch systems, defund
-Week 2: 
+**Week 1**: 
+VOL = Diagnostic-oriented: violence, racism, white privilege, Motivation: save lives, justice 
+PT = Prognostic: opportunity for change, police weapons, switch systems, defund
+**Week 2**: 
 VOL and PT = both Diagnostic-oriented -> evidence of violence on protesters, general indignation
-Week 3:
+**Week 3**:
 Both VOL. and PT frames are much more prognostic and motivation-oriented: identification of more specific vulnerable group within the black community (black women, disabled black people), identifications of vectors of change (the educational field, the healthcare system), emphasis on the need for support from external actors and on the need to keep the momentum of the movement
-Week 14:
-VOL = before Jacob Blake’s death = Prognostic-oriented, motivation-oriented 🡪 broader topics of discussion and more precise suggestions of solutions (healthcare, elections, voters, “Trump’s America”, voting for Biden, black history, education).
-After Jacob Blake’s death (VOL & PT) 🡪 mostly diagnostic-oriented frames about Jacob, his children, the injustice of the situation and the need to hold the policemen accountable 
+**Week 14**:
+VOL = before Jacob Blake’s death = Prognostic-oriented, motivation-oriented: broader topics of discussion and more precise suggestions of solutions (healthcare, elections, voters, “Trump’s America”, voting for Biden, black history, education).
+After Jacob Blake’s death (VOL & PT): mostly diagnostic-oriented frames about Jacob, his children, the injustice of the situation and the need to hold the policemen accountable 
 
 ## Main conclusion
 
@@ -309,8 +312,9 @@ As to #AbolishThePolice, we can see the network resembles that of #DefundThePoli
 ![screenshot (56)](https://user-images.githubusercontent.com/102752920/161983777-484369b2-3861-4cec-8e44-f5d732de300b.png)
 ![screenshot (55)](https://user-images.githubusercontent.com/102752920/161983786-a14b576f-21ee-4358-80d4-5c65e1c67c95.png)
 
-We can also see a variety of topics which focuses on local demonstrations and real life event. A difference from #DefundThePolice might be that the hashtag did not really manage to create an overarching narrative. 
+We can also see a variety of topics which focus on local demonstrations and real life event. A difference from #DefundThePolice might be that the hashtag did not really manage to create an overarching narrative. 
 ![screenshot (57)](https://user-images.githubusercontent.com/102752920/161984104-4c0a09bf-a263-4356-b09a-b0e6d478acbc.png)
+
 
 
 We instantiate the corpus object
