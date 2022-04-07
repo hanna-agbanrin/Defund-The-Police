@@ -175,14 +175,14 @@ We attributed the following labels to the first topics highlighted:
 - Topic 7 was unclear to us
 - Protests and clashes against the police
 
-We observe a great deal of convergence between #DefundThePolice and the main corpus, in particular as it relates with violent protests, and the need to change profoundly change the police institution. We hypothesize that the #DefundThePolice contributed to shaping these frames within the broader Black lives Matter movement. In order to demonstrae this, we look at a hashtag network around #BlackLivesMatter, in order to see whether there were any co-occurences of #BLM and #DefundThePolice 
+We observe a great deal of convergence between #DefundThePolice and the main corpus, in particular as it relates with violent protests, and the need to change profoundly change the police institution. We hypothesize that the #DefundThePolice contributed to either shape either diffuse these frames within the broader Black lives Matter movement. In order to demonstrate this, we look at a hashtag network around #BlackLivesMatter, in order to see whether there were any co-occurences of #BLM and #DefundThePolice 
 
 ## Hashtag Network
 
 This is the hashtag network that we generated thanks to the Twitter Explorer, which shows hastags most associated with #BLM. 
 ![image](https://user-images.githubusercontent.com/102752920/161737084-dc18d710-3e0a-4405-92f8-af1a1b54ac8c.png)
 
-We can see that within our query, #DefundThePolice and #AbolishThePolice are among tweets most frequently associated with #BlackLivesMatter.
+#DefundThePolice and #AbolishThePolice are among tweets most frequently associated with #BlackLivesMatter, and they both belong to two different hashtag niches:
 ![image](https://user-images.githubusercontent.com/102752920/161737117-17e36aca-920d-4d9f-82ed-a90f560b552c.png)
 
 If we zoom in: 
@@ -193,7 +193,8 @@ If we zoom in:
 ![image](https://user-images.githubusercontent.com/102752920/161737371-4d886f8a-3c9f-4216-9a02-8103686d3fe0.png)
 
 As to #AbolishthePolice, the hashtag is mostly associated with geographic locations, especially Portland. Portland protests have drawn throughout the summer an intense mediatization due to the large scale of the demonstrations organised, and of rioting and looting that took place. More importantly, the Portland protests sparked a conversation around the harsh repression of these demonstrations by law enforcement, a situation that promptly escalated as the American government sent federal troops to control. 
-This preliminary analysis of the hashtags seems to point to #AbolishThePolice and #DefundThePolice as two structuring frames within the Black Lives Matter movement, with #DefundThePolice being used as a more mainstream and general critique of the police and Abolish the Police being tied to more local and radical social mobilizations. This speaks to the extent of the social mobilization of local organizations and local demonstrations in Portland, the echo that they encountered across the country and the ongoing impact that these protests had in shaping the narrative: these demonstrations lasted 100 days.
+
+This preliminary analysis of the hashtags seems to point to #AbolishThePolice and #DefundThePolice as two structuring frames within the Black Lives Matter movement, with #DefundThePolice being used as a more mainstream and general critique of the police and Abolish the Police being tied to more local and radical social mobilizations. 
 
 
 # Dominant Frames 
@@ -294,10 +295,12 @@ How to interpret this?
 
 ![1Zu6shPR2HFnn1cnnv5G62hDF_PI73pdD6Xrjx-lq75-jmJfwiAuqA7EsSehb98iACjp0L90eAjY9uDsvrBEcBmGOEN0_83Lum7QcJDkvb9LsO9xbSyT1B-SP1hm5l3j3YysQWno](https://user-images.githubusercontent.com/102752920/162241965-f2d0406f-f022-4339-abbb-127e6297bc17.png)
 ![hMW8KDQmtznextmAb0v_xjtzkKNzvy4gypQz38gzURFqHwzhkIVCXAUEurrge3s_WXsuawjUoWM7C3eOBCdxds6o5LWfvB6NyKbsY0UwDmxN0rGN_pGJfYXoSBy5pOKhyvSCKTIb](https://user-images.githubusercontent.com/102752920/162242035-97305c61-e8f6-4f22-8806-b22a6780def0.png)
+
 For both hashtags, the majority of tweets come from the most numerous accounts, those with less than 1000 followers. However, there is a notable difference in terms of proportions. The ratio between the number of tweets published by accounts in the first category and those in the fifth category varies significantly. 1 to 28 for BLM, 1 to 15 for DTP.
 
 ![SDx_SN_kan8ACW3S53_9RPfP11HLKJb_dDGis9hZAk6ZISxY6nnH9E-9591YS1B5pfjDvMj08jpDa4rvt86lBiFEGGWBdlqFONgYnn0lPSVoBPhu-DYPB2sTLyG_DQTeH5aIDPAI](https://user-images.githubusercontent.com/102752920/162242273-b0979774-818b-42db-bc04-fe03f7cc1952.png)
 ![4Rj-7_o5fddSzyUsByc25XHOrfU5_5K7GBRjrRgeGGK5zChj0W1zvz9yqjT7mwrw9Xwu6DUB_-650CtTw1cI1YmEe5wedEgFKzUwxl7c1Js77sJqD-QxJVetaCjLmlmwFmJuqq2H](https://user-images.githubusercontent.com/102752920/162242371-a1349832-8b80-4101-b378-5122a67d3db7.png)
+
 For BLM, almost a quarter of the retweets are of tweets from twitters in the fifth category. For RTP, almost a third of retweets are concentrated in the third category.
 
 ## Evolution of the volume of tweets by follower base
@@ -307,6 +310,7 @@ Defund the police:
 
 Black Lives Matter: 
 ![PSu8scyofz42z8AHsClOPo_nqfvp-_49sF9H5bYQ5a1E-QopZQcvqiahBp3oh0dvAYSRmTRc_wet1OOJ7HJsjR1jKaH-K5GZXBoHEDLoqLlH5NjrdSgXd00RGKSfZlRSRftdWt9x](https://user-images.githubusercontent.com/102752920/162242970-28dbf422-0e6f-4055-833b-4d2f2ea289dd.png)
+
 If we look at the curves for the volume of tweets per day by category of twitters, we can see that all the curves move rather simultaneously, whether we are talking about BLM or DTP. Furthermore, the differences in volume between categories remain proportional. This indicates that one category of twitters does not seem to influence another category more from one day to the next. Since interactions on social media such as Twitter are generally made hour by hour, especially with constant updates of the feed, the results would perhaps be different if the evolution of the volume was observed hour by hour.
 
 ## Top 80 most retweeted tweets
@@ -340,14 +344,14 @@ We used the Twitter Explorer to modelize interactions between users, by focusing
 ![screenshot (24)](https://user-images.githubusercontent.com/102752920/161747930-9ec5f016-460b-4575-af2c-62eba734312e.png)
 ![screenshot (23)](https://user-images.githubusercontent.com/102752920/161747933-6bb469a0-9335-4b0f-9b58-afb1201ccf83.png)
 
-As we can see on this network analysis, users were initially very decentralized, as time passed, we can see that a core of users with a high degree of connectivity started to shape up. A nebulous of decentralized users remain at the periphery. 
+As we can see on this network analysis, users were initially very decentralized, as time passed, we can see that a core of users with a high degree of connectivity started to shape up. A nebula of decentralized users remains at the periphery. 
 The network throughout the period studied looks like this, on the first figure, it highlights accounts that were counted the most, while on the second it highlights accounts with the most followers: 
 
 ![screenshot (49)](https://user-images.githubusercontent.com/102752920/161980537-c12c02df-f61d-49e7-b745-eb9f524299ac.png)
 ![screenshot (48)](https://user-images.githubusercontent.com/102752920/161980541-ec0f0273-4fcc-4fa2-8a55-01aa5345f226.png)
 
 
-The network overall does not seem to be structured around big accounts, but rather around users with the highest degree of connectivity, which are not necessarily those with the most followers, but rather those that have posted videos that elicit a more emotional reaction, as explained above. Within this this dense core, we can see different Leiden communities, which shows a high degree of inter-community interactions. We see a significant proportion of decentralized users that interact with one another and even create small cores. 
+The network overall does not seem to be structured around big accounts, but rather around users with the highest degree of connectivity. This seems to show that opinion leaders did not structure the conversation, but rather those who have posted videos that elicited a more emotional reaction, as explained above. Within this this dense core, we can see different Leiden communities, which shows a high degree of inter-community interactions. We see a significant proportion of decentralized users that interact with one another and even create small cores. 
 
 ![screenshot (51)](https://user-images.githubusercontent.com/102752920/161981362-8441a2c7-6bbf-4408-b5d7-73e5ed8029be.png)
 
@@ -355,6 +359,7 @@ This network of hashtags associated with #DefundThePolice reflects the diversity
 
 We have generated networks with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
 In contract, #ReformThePolice displays a more scattered network with little connection between users which is seemingly shaped around these bigger accounts. 
+
 ![screenshot (52)](https://user-images.githubusercontent.com/102752920/161982679-6ade361c-1245-441c-af1a-eed2859e05d5.png)
 ![screenshot (54)](https://user-images.githubusercontent.com/102752920/161982730-ff5f550f-2e9e-49e9-84ec-b493048869e8.png)
 
@@ -373,6 +378,11 @@ We can also see a variety of topics which focus on local demonstrations and real
 ![screenshot (57)](https://user-images.githubusercontent.com/102752920/161984104-4c0a09bf-a263-4356-b09a-b0e6d478acbc.png)
 
 
+# Conclusion and discussion 
+
+This analysis of the #DefundThePolice attempted to mobilize both quantitative and qualitative data in order to make sense of how a radical movement can spread online. In order to make sense of the movement core features online we have compared it to other queries that have equally tried to influence the framing of police brutality in the United States, and we have tried to situate the movement within the broader Black Lives Matter ecosystem. What emerges from our study is that as Black Lives Matter came to be more mainstream and accepted, it lost some of its radicality due to its re-appropriation by more consensual. #DefundThePolice became the loci for more radical conversation around the issue of systemic racism and the issue of police brutality. 
+Core features of the movement resembles features of BLM at its onset: the movement was highly decentralized and came to bring together overarching frames around systemic racism in the United States, with more local conversation around protests and real life events. The co-existence of these conversations within the hashtag enabled anyone in the United States and in the world really to contribute and participate in this conversation, by sharing visual, textual and audi-visual content. 
+The movement as it seems mostly generated interaction around videos of in-real-life violence from police officers against protestors and people of color. What's particularly striking is the interaction between online conversation and real life events whereby tweets culminated during protests organized a the beginning of June. This element is a first explanation of the success of the movement: under the hastag anyone participating to a protest could document violence from the police and contribute to providing users with another example of the need to defund the police. 
 
 We instantiate the corpus object
 ```
