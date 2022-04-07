@@ -19,6 +19,7 @@ It is then necessary to question the process of diffusion of the hashtag that to
 # Literature Review
 
 ### Black Twitter as a Digital Counterpublic 
+
 Hashtags such as #BLM #SayHerName #ICan’tBreath and #OscarsSoWhite have notably been mobilized within what is colloquially referred to as Black Twitter. Black Twitter refers to “a collective of active, primarily African-American Twitter users who have created a virtual community ... [and are] proving adept at bringing about a wide range of sociopolitical changes”(Jones 2013). Black Twitter most specifically refers to the way in which users, most of whom are African-American interact on Twitter around issues mostly focused on race and popular culture. Black Twitter has been heralded over the past few years as the “new railroad underground” (Jones 2013) for African Americans, “a merciless watchdog for problematic behavior” (Wheeler 2019) for its mobilizing potential: this online space has enabled users to rally behind essential causes, bringing awareness to specific social issues, and call out problematic behaviors. 
 
 Hill has argued that Black Twitter constitutes “a digital counterpublic” that he defines as a “digitally networked community in which members actively resist hegemonic power, contest majoritarian narratives, engage in critical dialogues, or negotiate oppositional identities”. According to him, ​​as a digital counterpublic, Black Twitter has “enabled critical pedagogy, political organizing, and both symbolic and material forms of resistance to anti-Black state violence within the United States” among predominantly African American users. Notably, with the raise of #BlackLivesMatter, Black Twitter has provided an online space that has enabled African Americans communities to bypass mainstream media outlets, “digitally capture everyday interactions with law enforcement” (Hill p.287), and collectively organize around police violence. Within this “digital counter-public” (p.290), BLM disseminated “non-dominant narratives” (Mundt 2018, p.10) “about police brutality and Black liberation” (Mundt 2018, p.1)  Social media and hashtags have been key in the dissemination process, by acting as “collective action frames” (Ray & Brown 2017, p.1799) which link together “events of police brutality” by “locating texts, videos and pictures within a specific conversation” (Bonilla & Rosa 2015, p.5). 
@@ -33,7 +34,7 @@ Some researchers are wary of such a heavy dependence on opinion leaders: Wilkins
 
 # Methodology 
 
-We are interested in understanding how #DefundThePolice managed to mainstream its frames on the issue of police brutality? In order to do so, we want to analyse  #DefundThePolice's place within the Black Lives Matter ecosystem, and understand how it contributed to shape frames around the issue of police brutality. We also look at the temporality of these frames, in conjunction with engagement on social media to see which frames have garnered the most engagement. Finally we analyse the interplay between key actors in order to understand who precisely contributed to shape the narrative and mainstream it. 
+We are interested in understanding how #DefundThePolice managed to mainstream its frames on the issue of police brutality. In order to do so, we want to analyse  #DefundThePolice's place within the Black Lives Matter ecosystem, and understand how it contributed to shape frames around the issue of police brutality. We also look at the temporality of these frames, in conjunction with engagement on social media to see which frames have garnered the most engagement. Finally we analyse the interplay between key actors in order to understand who precisely contributed to shape the narrative and mainstream it. 
 
 In order to conduct this analysis on the mainstreaming of police abolition in 2020, we have mainly relied on collecting and analyzing tweets. We looked at trending hashtags that were used to push for specific framing of police violence within the Black Lives Matter movement. 
 
@@ -70,6 +71,7 @@ We performed critical discourse analysis on the tweets that have received the mo
 
 The volume of Tweets with the hashtag #BlackLivesMatter was particularly high from the end of May, and throughout most of June. 
 ![image](https://user-images.githubusercontent.com/102752920/161732952-1c4b55b5-5d08-4f04-84a5-f4c8f752eec2.png)
+
 If we zoom in on the first couple of weeks, we can see that it peaked on June 2nd. 
 ![image](https://user-images.githubusercontent.com/102752920/161733387-ac9bbed3-5173-4343-be79-b99dacd4c252.png)
 
@@ -84,7 +86,7 @@ We do however notice that the engagement rate plateaued from May 31st to June 2n
 In terms of volume, it appears that BLM was the most predominantly used hashtag within our corpus. 
 ![image](https://user-images.githubusercontent.com/102752920/161736784-676131d2-bbbf-4bbd-b955-f32c3cd20806.png)
 
-Similarly in terms of engagement, it appears that #DefundThePolice was the second one that generated the most engagement within our query.
+Similarly in terms of engagement, it appears that #DefundThePolice was the second one that generated the most engagement within our query, with #AbolishThePolice coming third.
 ![image](https://user-images.githubusercontent.com/102752920/161736875-0e6e566b-4c7c-4f43-bc17-ed9e267a336c.png)
 
 
@@ -175,7 +177,7 @@ We attributed the following labels to the first topics highlighted:
 - Topic 7 was unclear to us
 - Protests and clashes against the police
 
-We observe a great deal of convergence between #DefundThePolice and the main corpus, in particular as it relates with violent protests, and the need to change profoundly change the police institution. We hypothesize that the #DefundThePolice contributed to either shape either diffuse these frames within the broader Black lives Matter movement. In order to demonstrate this, we look at a hashtag network around #BlackLivesMatter, in order to see whether there were any co-occurences of #BLM and #DefundThePolice 
+We observe a great deal of thematical convergence between #DefundThePolice and the main corpus, in particular as it relates with violent protests, and the need to change profoundly change the police institution. We hypothesize that the #DefundThePolice contributed to either shape either diffuse these frames within the broader Black lives Matter movement. In order to demonstrate this, we look at a hashtag network around #BlackLivesMatter, in order to see whether there were any co-occurences of #BLM and #DefundThePolice 
 
 ## Hashtag Network
 
@@ -358,7 +360,7 @@ The network overall does not seem to be structured around big accounts, but rath
 This network of hashtags associated with #DefundThePolice reflects the diversity of communities that interact within the #DefundThePolice ecosystem. These communities all contribute to the conversation, which enables the hashtag to broaden the conversation to more local issues such as protests in Portland (#PortlandProtest), but also tackle more social issues such transphobia (#BlackTransLivesMatter), systemic violence perpetrated by immigration services (#AbolishICE). In turn this high degree of connectivity between users enables them to be exposed to this broader conversation. This truly exemplifies the notion of informal learning brought in the literature review. Finally, the contribution of users with a lot of followers, such as celebrities, news media enables to bring into the conversation a broader audience.
 
 We have generated networks with other queries, in order to better highlight the specificities of the #DefundThePolice network. 
-In contract, #ReformThePolice displays a more scattered network with little connection between users which is seemingly shaped around these bigger accounts. 
+In contract, #ReformThePolice displays a more scattered network with little connection between users, fewer communities and fewer inter-community interactions, the network seems to be shaped around these bigger accounts. 
 
 ![screenshot (52)](https://user-images.githubusercontent.com/102752920/161982679-6ade361c-1245-441c-af1a-eed2859e05d5.png)
 ![screenshot (54)](https://user-images.githubusercontent.com/102752920/161982730-ff5f550f-2e9e-49e9-84ec-b493048869e8.png)
@@ -370,7 +372,7 @@ The hyper dominance of bigger accounts with #ReformThePolice is further demonstr
 This results in less hashtags associated with #ReformThePolice, less differentiation among communities and local involvement limited to NYC as it seems:
 ![screenshot (58)](https://user-images.githubusercontent.com/102752920/161983724-a9fb3a3f-2bfd-4a39-9fae-426db8e39dea.png)
 
-As to #AbolishThePolice, we can see the network resembles that of #DefundThePolice, albeit with a less dense core, and fewer users.
+As to #AbolishThePolice, we can see the network resembles that of #DefundThePolice, albeit with a less dense core, and fewer users, the number of Leiden communities is similar, but there seems to be less connectivity between tweets.
 ![screenshot (56)](https://user-images.githubusercontent.com/102752920/161983777-484369b2-3861-4cec-8e44-f5d732de300b.png)
 ![screenshot (55)](https://user-images.githubusercontent.com/102752920/161983786-a14b576f-21ee-4358-80d4-5c65e1c67c95.png)
 
@@ -380,69 +382,23 @@ We can also see a variety of topics which focus on local demonstrations and real
 
 # Conclusion and discussion 
 
-This analysis of the #DefundThePolice attempted to mobilize both quantitative and qualitative data in order to make sense of how a radical movement can spread online. In order to make sense of the movement core features online we have compared it to other queries that have equally tried to influence the framing of police brutality in the United States, and we have tried to situate the movement within the broader Black Lives Matter ecosystem. What emerges from our study is that as Black Lives Matter came to be more mainstream and accepted, it lost some of its radicality due to its re-appropriation by more consensual. #DefundThePolice became the loci for more radical conversation around the issue of systemic racism and the issue of police brutality. 
+This analysis of the #DefundThePolice attempted to mobilize both quantitative and qualitative data in order to make sense of how a radical movement can spread online. In order to make sense of the movement core features online we have compared it to other queries that have equally tried to influence the framing of police brutality in the United States, and we have tried to situate the movement within the broader Black Lives Matter ecosystem. What emerges from our study is that as Black Lives Matter came to be more mainstream and accepted, it lost some of its radicality due to its re-appropriation by more consensual figures. #DefundThePolice became the loci for more radical conversation around the issue of systemic racism and the issue of police brutality. 
+
 Core features of the movement resembles features of BLM at its onset: the movement was highly decentralized and came to bring together overarching frames around systemic racism in the United States, with more local conversation around protests and real life events. The co-existence of these conversations within the hashtag enabled anyone in the United States and in the world really to contribute and participate in this conversation, by sharing visual, textual and audi-visual content. 
-The movement as it seems mostly generated interaction around videos of in-real-life violence from police officers against protestors and people of color. What's particularly striking is the interaction between online conversation and real life events whereby tweets culminated during protests organized a the beginning of June. This element is a first explanation of the success of the movement: under the hastag anyone participating to a protest could document violence from the police and contribute to providing users with another example of the need to defund the police. This phenomenon truly epitomizes the notion of informal learning whereby users feel encouraged to participate in collective meaning making.
+
+The movement as it seems mostly generated interaction around videos of in-real-life violence from police officers against protestors and people of color. What's particularly striking is the interaction between online conversation and real life events whereby tweets culminated during protests organized a the beginning of June. This element is a first explanation of the success of the movement: under the hashtag anyone participating to a protest could document violence from the police and contribute to providing users with another example of the need to defund the police. This phenomenon truly epitomizes the notion of informal learning whereby users feel encouraged to participate in collective meaning making. Furthermore, through this hashtag, individuals in city have been able to petititon for cuts in police budgets which have then served as examples for mobilization in other cities. We believe that these online/offline interactions have created a positive feedback loop for the movement, that has enabled it to scale up. 
+
 Opinion-leaders within this ecosystem contributed to relaying the conversation to a broader audience, more so than shaping the conversation. Notably, news media took up quite some interest over the movement, as exemplified by queries that we extracted from Mediacloud: 
 ![IxeZE-evolution-of-news-coverage-defundthepolice-2](https://user-images.githubusercontent.com/102752920/162249650-7fc73283-794f-43b6-90d9-a2227b4ccfdf.png)
 
-We may however wonder whether the movement truly managed to impose the totality of its frames. As we saw, engagement tended to be focused around emotional material, rather than with conversation around concrete measures that can be put in place in order to defund the police. 
+We may however wonder whether the movement truly managed to impose the totality of its frames. As we saw, engagement tended to be focused around emotional material and diagnostic oriented frames, rather than with conversation around concrete measures that can be put in place in order to defund the police. 
 
-Limits of our study come mainly from
+Limits of our study come from different potential biases: 
+- First, our sample just focused on pre-determined queries, based on news articles and perception of the conversation around 2020. A larger sample of tweets using keywords and hashtags more closely associated with George Floyd and Breonna Taylor could have resulted in a less radical messaging overall and a lower pre-eminence of themese and frames related with #DefundThePolice 
+- Second, we have noticed that in our tf-idf study and our topic modelling, the text data was perhaps not cleaned as thoroughly as we would have hoped, which maybe prevented other important keywords from appearing. 
+- Third we did not have enough time to cover opposition and polarization around the issue of defund the police. Our network analysis of hashtags associated pointed to a conservative niche, that were mostly regrouped around the hashtag #BlueLivesMatter, it would have been interesting to disentangle during peaks of engagement around #DefundThePolice tweets in favor of the movement and tweets against the movement.
+- Finally, we equated mainstreaming with the spread of certain frames, themes and engagement, but we may wonder whether punctual enaggement around a hashtag, especially when it is associated with highly emotional content, really translates into active involvement and unequivocal adoption of a given idea. 
 
-We instantiate the corpus object
-```
-lang = 'en_core_web_sm'
-corpus = textacy.Corpus(lang)
-for item in ['parser']:
-  if item in corpus.spacy_lang.pipe_names:
-      corpus.spacy_lang.remove_pipe(item)
-```      
-We add the documents 
-```
-corpus.add_texts(documents)
-docs_terms = (textacy.extract.terms(doc,ngs=partial(textacy.extract.ngrams, n=1, include_pos={"NOUN", "ADJ"}),ents=partial(textacy.extract.entities, include_types={ "ORG", "GPE", "LOC"}))for doc in corpus)
-tokenized_docs = (textacy.extract.terms_to_strings(doc_terms, by="lemma") for doc_terms in docs_terms)
-doc_term_matrix, vocab = textacy.representations.build_doc_term_matrix(tokenized_docs,tf_type="linear", idf_type="smooth")
-id_to_term = {id_: term for term, id_ in vocab.items()}
-```
-We carry out topic modelling with every single tweet 
-```
-import textacy.tm
-model = textacy.tm.TopicModel("nmf", n_topics=15)
-model.fit(doc_term_matrix)
-doc_topic_matrix = model.transform(doc_term_matrix)
-for topic_idx, terms in model.top_topic_terms(id_to_term, top_n=10):
-    print(f"topic {topic_idx}: {'   '.join(terms)}")
-```
-We visualize the topic modelling matrix: 
-```
- _ = model.termite_plot(doc_term_matrix, id_to_term, n_terms=50, highlight_topics=[0,4,6,2])
- ```
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
