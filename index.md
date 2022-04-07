@@ -270,6 +270,63 @@ We also noticed a discrepancy between the topics of the most popular tweets and 
 
 This analysis allowed us to get a more precise view of the movement’s dominant frames on Twitter, but it was still limited in scope. We studied the topics that generated the most engagement, but we did not determine the exact type of engagement that occurred each time - which could have been done through a more detailed sentiment analysis, using different tools. Using likes and retweets allowed us to quantify a certain amount of “positive” engagement related to some topics, but the dataset did not include the network of comments and “quote retweets” which are an important part of the Twitter ecosystem. Moreover, the coverage of the popular tweets in news media could also have had an important influence on the framing of the movement on this platform. 
 
+# The role and weight of opinion leaders in the dissemination of these tweets 
+
+
+## Average number of followers of account which have used #BlackLivesMatter and #DefundThePolice :
+
+#DefundThePolice
+![tAqoucf0_OV8vuFOXQmUnCso7HZE0drUhbl7GHEaa1EIpaZMVKgZgSEs2bfbFozg1i2CkySiNu6dzfzUD7zG6si5HitdDIDMr6QO_HmyufHSxHaQxJ2rHmPLmqt0nf1gv7t_kRLg](https://user-images.githubusercontent.com/102752920/162240795-00441351-ad4f-47de-84ac-762031bba57a.png)
+
+#BlackLivesMatter
+![qOrAiqCfGDayLeafuARY5NIkbEeiuN8lhzcjK2o0N9X_8293CBTDIEUIs1kEe9ZRbE5CqZHqmeyMa6Mic1dcffEapOZkxvyfHM1qoYvNLBJRuhGCExrIUoRZPSdNNAaGr0nRoJsz](https://user-images.githubusercontent.com/102752920/162241172-2a413e4a-5f9c-48a3-949c-155c2f95b33a.png)
+
+By observing the average number of followers of people who have used the targeted hashtag, several observations can be made. 
+
+The first striking thing is that the curves are extremely fluctuating and essentially show up in spikes of greater or lesser magnitude at more or less regular intervals. The average number of followers is particularly high in early-mid August. This observation leads us to believe that influential or super-influential Twitter accounts engage more or less at the same time. Indeed, the curves should remain more stable if this were not the case, as we are talking about an average per tweeter. However, it could be a matter of a few isolated tweets made by a few very influential people, whereas the engagement of less influential twitter accounts would be less active. This was for example the case on June, 7, when 7 users with more than 1 million followers used the hashtag #DefundThePolice while only 61 of users with less than 1,000 followers did so. The proportion of influential users is then very high, but the number of tweets that day is too low to make statistical conclusions.
+
+Furthermore, from a comparative point of view, it is interesting to note that the orders of magnitude are higher for #DefundThePolice than for #BlackLivesMatter. The peak of the average is reached by #DefundThePolice in early August with almost 1.4 million followers on average per account that tweeted. This is significantly higher than #BlackLivesMatter, whose peak does not reach one million. This leads us to conclude that Twitter accounts relaying #DefundThePolice are generally accounts with more followers. This could be explained by the fact that #BlackLivesMatter is a more mainstream hashtag with a more global and consensual political theme. 
+
+3/ Finally, #DefundThePolice and #BlackLivesMatter do not peak on the same day. 
+How to interpret this? 
+
+## Number of tweets containing the hashtag by category of twitters ranked by number of followers.
+
+![1Zu6shPR2HFnn1cnnv5G62hDF_PI73pdD6Xrjx-lq75-jmJfwiAuqA7EsSehb98iACjp0L90eAjY9uDsvrBEcBmGOEN0_83Lum7QcJDkvb9LsO9xbSyT1B-SP1hm5l3j3YysQWno](https://user-images.githubusercontent.com/102752920/162241965-f2d0406f-f022-4339-abbb-127e6297bc17.png)
+![hMW8KDQmtznextmAb0v_xjtzkKNzvy4gypQz38gzURFqHwzhkIVCXAUEurrge3s_WXsuawjUoWM7C3eOBCdxds6o5LWfvB6NyKbsY0UwDmxN0rGN_pGJfYXoSBy5pOKhyvSCKTIb](https://user-images.githubusercontent.com/102752920/162242035-97305c61-e8f6-4f22-8806-b22a6780def0.png)
+For both hashtags, the majority of tweets come from the most numerous accounts, those with less than 1000 followers. However, there is a notable difference in terms of proportions. The ratio between the number of tweets published by accounts in the first category and those in the fifth category varies significantly. 1 to 28 for BLM, 1 to 15 for DTP.
+
+![SDx_SN_kan8ACW3S53_9RPfP11HLKJb_dDGis9hZAk6ZISxY6nnH9E-9591YS1B5pfjDvMj08jpDa4rvt86lBiFEGGWBdlqFONgYnn0lPSVoBPhu-DYPB2sTLyG_DQTeH5aIDPAI](https://user-images.githubusercontent.com/102752920/162242273-b0979774-818b-42db-bc04-fe03f7cc1952.png)
+![4Rj-7_o5fddSzyUsByc25XHOrfU5_5K7GBRjrRgeGGK5zChj0W1zvz9yqjT7mwrw9Xwu6DUB_-650CtTw1cI1YmEe5wedEgFKzUwxl7c1Js77sJqD-QxJVetaCjLmlmwFmJuqq2H](https://user-images.githubusercontent.com/102752920/162242371-a1349832-8b80-4101-b378-5122a67d3db7.png)
+For BLM, almost a quarter of the retweets are of tweets from twitters in the fifth category. For RTP, almost a third of retweets are concentrated in the third category.
+
+## Evolution of the volume of tweets by follower base
+
+Defund the police:
+![QKA_NPsYSIdANluEKbTV1EUqVZhmvZCaOj08JsREH3TFv2RRX1YzsIHlEX9pTOsZRQnKx0aOTByP5RrHauVrrZGgMvO3QwdV9NGiw3ZdIDYBU8sJzgx5hQahX92BJfp0fbdAdNcq](https://user-images.githubusercontent.com/102752920/162242662-eaaae6a5-44b6-4540-9499-c9778d8bdf63.png)
+
+Black Lives Matter: 
+![PSu8scyofz42z8AHsClOPo_nqfvp-_49sF9H5bYQ5a1E-QopZQcvqiahBp3oh0dvAYSRmTRc_wet1OOJ7HJsjR1jKaH-K5GZXBoHEDLoqLlH5NjrdSgXd00RGKSfZlRSRftdWt9x](https://user-images.githubusercontent.com/102752920/162242970-28dbf422-0e6f-4055-833b-4d2f2ea289dd.png)
+If we look at the curves for the volume of tweets per day by category of twitters, we can see that all the curves move rather simultaneously, whether we are talking about BLM or DTP. Furthermore, the differences in volume between categories remain proportional. This indicates that one category of twitters does not seem to influence another category more from one day to the next. Since interactions on social media such as Twitter are generally made hour by hour, especially with constant updates of the feed, the results would perhaps be different if the evolution of the volume was observed hour by hour.
+
+## Top 80 most retweeted tweets
+
+We isolated the top 80 most retweeted tweets containing #BlackLivesMatter or #DefundThePolice. We wanted to see what kind of content users were mostly reacting to. We consider retweets rather than likes because retweets induce a higher level of involvement by the users. The results were quite contrasted between the two hashtags. We decided to focus on the most retweeted tweets written by users with more than 1 million followers and those written by users with less than 10,000 followers. The first ones enabled us to determine whether the profiles of influential users change from one hashtag to another. The second ones enabled us to determine what kind of content users were the most responsive depending on the hashtag, provided that the low follower-base of those who tweeted them could not explain the level of their diffusion.
+
+For #DefundThePolice, the users with more than 1 million followers were: Ice Cube, Rex Chapman, LilNasX, Seth Rogen, Jordan Peele, AOC, Casey Frey, Anna Kendrick, Bernie Sanders, Mitt Romney, Ice T,  Trevor Noah, Nicholas Kristof. For #BlackLivesMatter, the users with more than 1 million followers were : BTS, Obama, Taylor Swift, Ice Cube, Rex Chapman, Harry Styles, SpaceX, Jordan Peele, Netflix, Bernie Sanders.
+
+First of all, it is noticeable that for #DefundThePolice, all of them are American persons, except Trevor Noah who is a South-African comedian and political commentator hosting The Daily Show, an american satirical news program on Comedy Central. As for #BlackLivesMatter, some users were not American, BTS (Korean) and Harry Styles (British), and some were actually companies, Netflix and SpaceX. 
+Besides, for #DefundThePolice, the personalities have generally been more engaged and more revendicative in defending black communities by the past than for #BlackLivesMatter. This is especially the case of Ice Cube, an African-American rapper or Jordan Peele, an African-American actor and film director. On the contrary, some personalities, such as BTS or Taylor Swift, who have tweeted #BlackLivesMatter can be considered very consensual and not very politicized.
+Therefore, we conclude that opinion leaders who tweeted #DefundThePolice are much more politically assertive than those who tweeted #BlackLivesMatter.
+
+Secondly, for the most retweeted tweets written by user with less than 10,000 followers, the results were also contrasted between #BlackLivesMatter and #DefundThePolice. For the former, of the 35 tweets, 17 (49% of them) are visuals, mostly pictures. Some of these pictures deal with broad issues such as racism, equity, justice, white privilege. Others are focused on the protests (picture of peaceful protesters, picture of John Boyega, video of BLM protests in New Zealand, video of protesters shutting down highway to Atlanta) and George Floyd (Video to explain how to help George Floyd’s family, sign of George Floyd’s lasts words. 
+
+The textual tweets often reflect on the legitimacy of the protests : “so can someone explain the controversy behind ending racism? like shouldn’t we all be on board, right? what am i missing?” ; “racist white ppl be like “burning possessions won’t solve the issue” ....didnt y’all burn Nike products when they endorsed Collin Kaepernick’s peaceful protest ?????????????”; “Y’all can understand a white kid shooting up a school cuz he was bullied after 4 months of school but don’t understand why an oppressed group is compelled to burn shit down after 400yrs”
+
+As for #DefundThePolice, the vast majority of tweets are footage of the police being violent. Indeed, of the 24 tweets, 14 (58%) are visuals, mostly videos. All of them show the police being brutal with black people or protesters. Here are the topics covered by the videos in detail. : 5 videos show a black man being arrested by the police; 1 video of the police shooting paint canisters at protesters on their house front porch; 1 video cut of police brutality during the protests contrasting with  a speech from Mayor Garcetti, L.A., supporting the police contrasting; 1 video of a police officer talking to a white man holding a gun on the margins of the protests; 1 video of protesters getting tear-gassed by the police while being cornered; 1 picture of a police officer pointing his flash-ball at a black man carrying his daughter on his shoulders; 1 video of a NYPD car rolling over protesters; 1 video of a woman telling that the police has destroyed their medical tent; 1 video of tribute to Elijah McClain, a black man killed by Aurora PD in 2019; 1 picture of Jamel Leach in hospital, a 16-year-old African-American teenager, having been assaulted by the police; 1 video of policemen emptying bottle of waters of protesters
+
+Therefore, we conclude that, unsurprisingly, #DefundThePolice was most likely spread through visual tweets (58%), all of them showing police brutality, especially against black persons. This was not the case for #BlackLivesMatter, for which more than half (51%) of the most retweeted tweets are textual and deal with the broader issue of racism. 
+
 
 # Network analysis 
 
